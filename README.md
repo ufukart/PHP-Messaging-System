@@ -217,8 +217,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 **[Adınız]**
 
-- GitHub: [@kullaniciadi](https://github.com/kullaniciadi)
-- Email: email@example.com
+- GitHub: [@ufukart](https://github.com/ufukart)
 
 ## 🙏 Teşekkürler
 
